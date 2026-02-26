@@ -2,10 +2,6 @@
 layout: home
 author_profile: true
 title: "Ho-min Park"
-header:
-  overlay_color: "#5e616c"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/header-bg.jpg
 excerpt: "PhD in Computer Science | Machine Learning Researcher"
 ---
 
