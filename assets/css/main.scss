@@ -1,0 +1,70 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+// Custom styles
+.scholar-stats-box {
+  background: #f8f9fa;
+  border-left: 4px solid #4285f4;
+  padding: 1em 1.5em;
+  margin-bottom: 2em;
+  border-radius: 0 4px 4px 0;
+}
+
+.publication-item {
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #eee;
+}
+
+.publication-item h4 {
+  margin-bottom: 0.3em;
+  color: #333;
+}
+
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 0.8em;
+}
+
+.badge-citations {
+  background: #4285f4;
+  color: white;
+}
+
+// Author profile enhancements
+.author__avatar img {
+  border-radius: 50%;
+}
+
+.author__urls-wrapper {
+  a {
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// Table styling
+table {
+  width: 100%;
+  border-collapse: collapse;
+
+  th, td {
+    padding: 0.5em;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+
+  th {
+    background: #f5f5f5;
+  }
+}

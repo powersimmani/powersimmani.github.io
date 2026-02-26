@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/
+  - title: "AIVS"
+    url: https://github.com/powersimmani/AIVS
+    target: _blank

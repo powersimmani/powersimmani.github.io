@@ -1,0 +1,26 @@
+{% assign limit = include.limit | default: 100 %}
+{% assign publications = site.data.publications | slice: 0, limit %}
+
+<div class="publications-list">
+{% for pub in publications %}
+  <div class="publication-item" style="margin-bottom: 1.5em; padding-bottom: 1em; border-bottom: 1px solid #eee;">
+    <h4 style="margin-bottom: 0.3em;">{{ pub.title }}</h4>
+    <p style="color: #666; margin: 0.2em 0;">
+      <small>{{ pub.authors }}</small>
+    </p>
+    <p style="margin: 0.2em 0;">
+      <em>{{ pub.venue }}</em>{% if pub.year %}, {{ pub.year }}{% endif %}
+    </p>
+    {% if pub.citations > 0 %}
+    <p style="margin: 0.2em 0;">
+      <span class="badge" style="background: #4285f4; color: white; padding: 2px 8px; border-radius: 3px; font-size: 0.8em;">
+        Cited by {{ pub.citations }}
+      </span>
+    </p>
+    {% endif %}
+    {% if pub.url %}
+    <p><a href="{{ pub.url }}" target="_blank" class="btn btn--small">View Paper</a></p>
+    {% endif %}
+  </div>
+{% endfor %}
+</div>

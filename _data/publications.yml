@@ -1,0 +1,160 @@
+- title: "Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability"
+  authors: "KT Nguyen, H Park, G Oh, J Vankerschaver, W De Neve"
+  year: 2025
+  venue: "IEEE 22nd International Symposium on Biomedical Imaging (ISBI)"
+  citations: 4
+  url: ""
+
+- title: "Interpreting Stress Detection Models using SHAP and Attention for MuSe-Stress 2022"
+  authors: "H Park, G Kim, J Oh, A Van Messem, W De Neve"
+  year: 2024
+  venue: "IEEE Transactions on Affective Computing"
+  citations: 8
+  url: "https://doi.org/10.1109/TAFFC.2024.3488112"
+
+- title: "Assessing the reliability of point mutation as data augmentation for deep learning with genomic data"
+  authors: "H Lee, U Ozbulak, H Park, S Depuydt, W De Neve, J Vankerschaver"
+  year: 2024
+  venue: "BMC bioinformatics"
+  citations: 10
+  url: ""
+
+- title: "Interpretable Rotator Cuff Tear Diagnosis Using MRI Slides with CAMscore and SHAP"
+  authors: "H Park, I Yun, M Kim, KT Nguyen, A Van Messem, W De Neve"
+  year: 2024
+  venue: "Medical Imaging 2024: Computer-Aided Diagnosis, SPIE"
+  citations: 0
+  url: ""
+
+- title: "Exploring Multimodal Approaches and Fusion Methods for CEO Social Attribute Prediction in 2024 MuSe-Perception"
+  authors: "AK Singh, G Kim, J Kim, H Park, BJ Choi, W De Neve"
+  year: 2024
+  venue: "Proceedings of the 5th on Multimodal Sentiment Analysis Challenge and Workshop"
+  citations: 0
+  url: "https://doi.org/10.1145/3689062.3689081"
+
+- title: "Know your self-supervised learning: A survey on image-based generative and discriminative training"
+  authors: "U Ozbulak, HJ Lee, B Boga, ET Anzaku, H Park, A Van Messem, W De Neve"
+  year: 2023
+  venue: "arXiv preprint arXiv:2305.13689"
+  citations: 64
+  url: ""
+
+- title: "CRISPR-Cas-Docker: web-based in silico docking and machine learning-based classification of crRNAs with Cas proteins"
+  authors: "H Park, J Won, Y Park, ET Anzaku, J Vankerschaver, A Van Messem, W De Neve, H Shim"
+  year: 2023
+  venue: "BMC bioinformatics"
+  citations: 4
+  url: ""
+
+- title: "MuSe-Personalization 2023: Feature Engineering, Hyperparameter Optimization, and Transformer-Encoder Re-discovery"
+  authors: "HM Park, G Kim, A Van Messem, W De Neve"
+  year: 2023
+  venue: "Proceedings of the 4th on Multimodal Sentiment Analysis Challenge and Workshop"
+  citations: 4
+  url: "https://doi.org/10.1145/3606039.3613104"
+
+- title: "Discovering Biomarker Proteins and Peptides for Parkinson's Disease Prognosis Prediction with Machine Learning and Interpretability Methods"
+  authors: "H Park, E Kabanga, D Moon, M Chung, J Im, Y Kim, A Van Messem, W De Neve"
+  year: 2023
+  venue: "bioRxiv"
+  citations: 3
+  url: ""
+
+- title: "MP-Net: Deep learning-based segmentation for fluorescence microscopy images of microplastics isolated from clams"
+  authors: "H Park, S Park, MK de Guzman, JY Baek, T Cirkovic Velickovic, A Van Messem, W De Neve"
+  year: 2022
+  venue: "PLoS ONE"
+  citations: 27
+  url: "https://doi.org/10.1371/journal.pone.0269449"
+
+- title: "Rethinking protein drug design with highly accurate structure prediction of anti-CRISPR proteins"
+  authors: "HM Park, Y Park, J Vankerschaver, A Van Messem, W De Neve, H Shim"
+  year: 2022
+  venue: "Pharmaceuticals"
+  citations: 25
+  url: "https://doi.org/10.3390/ph15030310"
+
+- title: "In silico optimization of RNA-protein interactions for CRISPR-Cas13-based antimicrobials"
+  authors: "H Park, Y Park, U Berani, E Bang, J Vankerschaver, A Van Messem, W De Neve, H Shim"
+  year: 2022
+  venue: "Biology Direct"
+  citations: 13
+  url: "https://doi.org/10.1186/s13062-022-00339-5"
+
+- title: "Towards multimodal prediction of time-continuous emotion using pose feature engineering and a transformer encoder"
+  authors: "H Park, I Yun, A Kumar, AK Singh, BJ Choi, D Singh, W De Neve"
+  year: 2022
+  venue: "Proceedings of the 3rd International on Multimodal Sentiment Analysis Workshop and Challenge"
+  citations: 12
+  url: "https://doi.org/10.1145/3551876.3554807"
+
+- title: "Towards a quantitative analysis of class activation mapping for deep learning-based computer-aided diagnosis"
+  authors: "H Kang, H Park, Y Ahn, A Van Messem, W De Neve"
+  year: 2021
+  venue: "Medical Imaging 2021, SPIE"
+  citations: 17
+  url: "https://doi.org/10.1117/12.2580819"
+
+- title: "Developing a Segmentation Model for Microscopic Images of Microplastics Isolated from Clams"
+  authors: "JY Baek, MK de Guzman, H Park, S Park, B Shin, TC Velickovic, A Van Messem, W De Neve"
+  year: 2021
+  venue: "International Conference on Pattern Recognition"
+  citations: 4
+  url: "https://doi.org/10.1007/978-3-030-68780-9_9"
+
+- title: "3-D deep learning-based item classification for belt conveyors targeting packaging and logistics"
+  authors: "H Park, B Kang, A Van Messem, W De Neve"
+  year: 2021
+  venue: "Pattern Recognition, ICPR International Workshops"
+  citations: 0
+  url: "https://doi.org/10.1007/978-3-030-68799-1_42"
+
+- title: "MRI-based Diagnosis of Rotator Cuff Tears using Deep Learning and Weighted Linear Combinations"
+  authors: "M Kim, H Park, JY Kim, SH Kim, S Hoeke, W De Neve"
+  year: 2020
+  venue: "Machine Learning for Healthcare Conference"
+  citations: 18
+  url: ""
+
+- title: "Item measurement for logistics-oriented belt conveyor systems using a scenario-driven approach and automata-based control design"
+  authors: "H Park, A Van Messem, W De Neve"
+  year: 2020
+  venue: "IEEE 7th International Conference on Industrial Engineering and Applications"
+  citations: 8
+  url: ""
+
+- title: "Box-Scan: An efficient and effective algorithm for box dimension measurement in conveyor systems using a single RGB-D camera"
+  authors: "HM Park, A Van Messem, W De Neve"
+  year: 2019
+  venue: "The 7th IIAE International Conference on Industrial Application Engineering"
+  citations: 16
+  url: ""
+
+- title: "Towards diagnosis of rotator cuff tears in 3-D MRI using 3-D convolutional neural networks"
+  authors: "MJ Kim, H Park, JY Kim, S Van Hoecke, W De Neve"
+  year: 2019
+  venue: "Workshop on Computational Biology at ICML"
+  citations: 4
+  url: ""
+
+- title: "Web applicable computer-aided diagnosis of glaucoma using deep learning"
+  authors: "M Kim, O Janssens, H Park, J Zuallaert, S Van Hoecke, W De Neve"
+  year: 2018
+  venue: "arXiv preprint arXiv:1812.02405"
+  citations: 15
+  url: ""
+
+- title: "Finding Compact Class Sets for Korean Font Image Classification"
+  authors: "S Shin, D Kim, H Park, B Kang, KA Sohn"
+  year: 2017
+  venue: "4th IAPR Asian Conference on Pattern Recognition (ACPR)"
+  citations: 4
+  url: ""
+
+- title: "Temporal Citation Network-Based Feature Extraction for Cited Count Prediction"
+  authors: "HM Park, YB Sinshaw, KA Sohn"
+  year: 2017
+  venue: "International Conference on Mobile and Wireless Technology"
+  citations: 3
+  url: ""
