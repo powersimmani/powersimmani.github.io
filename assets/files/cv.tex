@@ -1,0 +1,206 @@
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage{inter}
+\renewcommand*\familydefault{\sfdefault}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{gr}{RGB}{0,32,91}
+\newcommand\ruleafter[1]{#1~\xrfill[.5ex]{1pt}[gr]}
+\usepackage{geometry}
+\geometry{
+    a4paper,
+    top=1.8cm,
+    bottom=1in,
+    left=2.5cm,
+    right=2.5cm
+}
+\setcounter{secnumdepth}{0}
+\pdfgentounicode=1
+\usepackage{enumitem}
+\setlist[itemize]{
+    noitemsep,
+    left=2em
+}
+\setlist[description]{itemsep=0pt}
+\setlist[enumerate]{align=left}
+\colorlet{icnclr}{gray}
+\usepackage{titlesec}
+\titlespacing{\subsection}{0pt}{*0}{*0}
+\titlespacing{\subsubsection}{0pt}{*0}{*0}
+\titleformat{\section}{\color{gr}\large\fontseries{black}\selectfont\uppercase}{}{}{\ruleafter}[\global\RemVStrue]
+\titleformat{\subsection}{\fontseries{bold}\selectfont}{}{}{\rvs}
+\titleformat{\subsubsection}{\color{gray}\fontseries{bold}\selectfont}{}{}{}
+\usepackage{xhfill}
+\newif\ifRemVS
+\newcommand{\rvs}{
+    \ifRemVS
+    \vspace{-1.5ex}
+    \fi
+    \global\RemVSfalse
+}
+\usepackage{fontawesome5}
+\usepackage[bookmarks=false]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    urlcolor=Sepia,
+    pdftitle={Ho-min Park - CV},
+}
+\usepackage[page]{totalcount}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhf{}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\begin{document}
+\definecolor{gr}{RGB}{0,32,91}
+\titleformat{\section}{\color{gr}\large\fontseries{black}\selectfont\uppercase}{}{}{\ruleafter}[\global\RemVStrue]
+%== HEADER ==%
+\begin{center}
+    {\fontsize{28}{28}\selectfont Ho-min Park} \\
+    \bigskip
+    {\color{icnclr}\faMapMarker} Incheon, South Korea \quad
+    {\color{icnclr}\faEnvelope[regular]} \href{mailto:homin.park@ghent.ac.kr}{homin.park@ghent.ac.kr}, \href{mailto:powersimmani@gmail.com}{powersimmani@gmail.com} \quad{\color{icnclr}\faIcon{mobile-alt}} \href{tel:+82-10-4731+3162}{+82-10-4731-3162}
+    \\
+    {\color{icnclr}\faGithub} \href{https://github.com/powersimmani}{github.com/powersimmani}
+    \quad{\color{icnclr}\faOrcid} \href{https://orcid.org/0000-0001-9937-8617}{0000-0001-9937-8617}
+    \quad{\color{icnclr}\faLinkedin} \href{https://www.linkedin.com/in/park-ho-min-b46658a6}{LinkedIn}
+    \quad{\color{icnclr}\faGlobe} \href{https://powersimmani.github.io}{powersimmani.github.io}
+\end{center}
+
+\section{About me}
+Computer Science Engineering PhD graduate with extensive experience at the intersection of machine learning and biotechnology. Specialized in developing AI solutions for complex biological data including structural biology (CRISPR-Cas systems), medical imaging, and genomics. Demonstrated expertise in building scalable ML pipelines for biological discovery with 7 peer-reviewed publications, 2 patents, and multiple open-source bioinformatics tools. Passionate about applying deep learning to advance biotechnology research and experienced in mentoring the next generation of AI researchers through educational initiatives. Ready to develop innovative research lines combining state-of-the-art machine learning with biotechnology applications.
+
+\section{Skills}
+\subsection{Computational}
+\subsubsection{Python}
+\begin{itemize}
+    \item[\checkmark] Primary programming language, with expertise in AI model development using PyTorch.
+    \item[\checkmark] Extensive experience implementing various AI and deep learning models, focusing on MLOps tasks and integrating with Weights and Biases (WandB) and PyTorch Lightning.
+\end{itemize}
+\subsubsection{GitHub}
+\begin{itemize}
+    \item[\checkmark] Extensively used for version control and project sharing, with experience in collaborative development and documentation.
+    \item[\checkmark] Actively maintained multiple public repositories for AI research projects and educational materials.
+\end{itemize}
+\subsubsection{Weights and Biases (WandB)}
+\begin{itemize}
+    \item[\checkmark] Actively used for experiment tracking and model performance monitoring in MLOps tasks.
+\end{itemize}
+\subsection{Languages}
+\subsubsection{Korean}
+\begin{itemize}
+    \item[\checkmark] Native speaker.
+\end{itemize}
+\subsubsection{English}
+\begin{itemize}
+    \item[\checkmark] \textit{Writing:} Demonstrated through technical documentation and research publications.
+    \item[\checkmark] \textit{Reading:} Evident through the comprehension of technical and academic literature.
+    \item[\checkmark] \textit{Speaking and Listening:} Applied in collaborative environments with international teams.
+\end{itemize}
+
+\section{Funded Projects}
+\subsection{Depression Diagnosis \& Drug Adherence Research (2022 - 2025)}
+\begin{itemize}
+    \item[\checkmark] Developed advanced models for the MuSe-Stress and MuSe-Personalization challenges.
+    \item[\checkmark] Implemented Transformer Encoders and novel feature engineering techniques.
+    \item[\checkmark] Achieved 2nd place in MuSe-Personalisation 2023 and 3rd place in MuSe-Stress 2022.
+    \item[\checkmark] Contributed to the field of affective computing with interpretable AI models.
+    \item[\checkmark] \textbf{Funding:} National Research Foundation of Korea (Grant No.: NRF-2020K1A3A1A68093469), Department of Biotechnology in India (Grant No.: DBT/IC-12031(22)-ICD-DBT), and Ghent University Global Campus
+\end{itemize}
+
+\subsection{Environmental Monitoring Project (2020 - 2023)}
+\begin{itemize}
+    \item[\checkmark] Led development of MP-Net, an AI system for automated microplastics detection
+    \item[\checkmark] Designed and implemented a microplastics annotation tool for dataset creation
+    \item[\checkmark] Managed collaboration between environmental scientists and AI engineers
+    \item[\checkmark] \textbf{Funding:} Special Research Fund of Ghent University (Grant No.: 01N01718) and Ghent University Global Campus
+\end{itemize}
+
+\subsection{Smart Packaging System Development (2018 - 2021)}
+\begin{itemize}
+    \item[\checkmark] Developed and patented two AI-powered measurement systems for industrial conveyor belts
+    \item[\checkmark] Led implementation of 3D deep learning-based item classification system
+    \item[\checkmark] Designed integrated size and type monitoring system
+    \item[\checkmark] Collaborated with industry partners to deploy solutions in real factory environments
+    \item[\checkmark] \textbf{Funding:} Ministry of Trade, Industry, and Energy (MOTIE), Korea (Project No.: 10077285)
+\end{itemize}
+
+\section{Patents}
+\begin{itemize}
+    \item[\checkmark] Park, H., \& De Neve, W. (2020) An apparatus and method for measuring the size of high-speed objects and classifying their type on conveyors using light curtain sensors. Korean Intellectual Property Office. Application no.: 10-2020-0045098, Registration no.: 10-2273758.
+    \item[\checkmark] Park, H., \& De Neve, W. (2018) Apparatus and method for measuring the size of high-speed boxes on conveyors using an RGB-D camera. Korean Intellectual Property Office. Application no.: 10-2018-0148118, Registration no.: 10-2066862.
+\end{itemize}
+
+\section{Publications}
+\subsection{Journal Articles}
+\begin{itemize}
+    \item[\checkmark] Park, H., Kim, G., Oh, J., Van Messem, A., \& De Neve, W. (2024) Interpreting stress detection models using SHAP and attention for MuSe-Stress 2022. \textit{IEEE Transactions on Affective Computing}, \textbf{15}(01): 1-17. DOI: \href{https://doi.org/10.1109/TAFFC.2024.3488112}{10.1109/TAFFC.2024.3488112}.
+    \item[\checkmark] Park, H., Won, J., Park, Y., Anzaku, E. T., Vankerschaver, J., Van Messem, A., De Neve, W., \& Shim, H. (2023) CRISPR-Cas-Docker: Web-based in silico docking and machine learning-based classification of crRNAs with Cas proteins. \textit{BMC Bioinformatics}, \textbf{24}(1): 167. Springer.
+    \item[\checkmark] Park, H., Park, Y., Berani, U., Bang, E., Vankerschaver, J., Van Messem, A., De Neve, W., \& Shim, H. (2022) In silico optimization of RNA-protein interactions for CRISPR-Cas13-based antimicrobials. \textit{Biology Direct}, \textbf{17}(1). DOI: \href{https://doi.org/10.1186/s13062-022-00339-5}{10.1186/s13062-022-00339-5}.
+    \item[\checkmark] Park, H., Park, Y., Vankerschaver, J., Van Messem, A., De Neve, W., \& Shim, H. (2022) Rethinking protein drug design with highly accurate structure prediction of anti-CRISPR proteins. \textit{Pharmaceuticals}, \textbf{15}(3). DOI: \href{https://doi.org/10.3390/ph15030310}{10.3390/ph15030310}.
+    \item[\checkmark] Park, H., Park, S., de Guzman, M. K., Baek, J. Y., Cirkovic Velickovic, T., Van Messem, A., \& De Neve, W. (2022) MP-Net: Deep learning-based segmentation for fluorescence microscopy images of microplastics isolated from clams. \textit{PLoS ONE}, \textbf{17}(6): e0269449. DOI: \href{https://doi.org/10.1371/journal.pone.0269449}{10.1371/journal.pone.0269449}.
+\end{itemize}
+\subsection{Conference Articles}
+\begin{itemize}
+    \item[\checkmark] Nguyen, K. T., Park, H., Oh, G., Vankerschaver, J., \& De Neve, W. (2025) Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability. \textit{IEEE 22nd International Symposium on Biomedical Imaging (ISBI)}.
+    \item[\checkmark] Park, H., Yun, I., Kim, M., Nguyen, K. T., Van Messem, A., \& De Neve, W. (2024) Interpretable Rotator Cuff Tear Diagnosis Using MRI Slides with CAMscore and SHAP. \textit{Medical Imaging 2024: Computer-Aided Diagnosis}, Vol. 12927: 683-693. SPIE.
+    \item[\checkmark] Singh, A. K., Kim, G., Kim, J., Park, H., Choi, B. J., \& De Neve, W. (2024) Exploring Multimodal Approaches and Fusion Methods for CEO Social Attribute Prediction in 2024 MuSe-Perception. \textit{Proceedings of the 5th on Multimodal Sentiment Analysis Challenge and Workshop: Social Perception and Humor}, 36–44. Melbourne VIC, Australia: ACM. DOI: \href{https://doi.org/10.1145/3689062.3689081}{10.1145/3689062.3689081}.
+    \item[\checkmark] Park, H., Kim, G., Van Messem, A., \& De Neve, W. (2023) MuSe-Personalization 2023: Feature engineering, hyperparameter optimization, and transformer-encoder re-discovery. \textit{Proceedings of the 4th Multimodal Sentiment Analysis Challenge and Workshop: Mimicked Emotions, Humour and Personalisation}, 89–97. Ottawa ON, Canada: ACM. DOI: \href{https://doi.org/10.1145/3606039.3613104}{10.1145/3606039.3613104}.
+    \item[\checkmark] Park, H., Yun, I., Kumar, A., Singh, A. K., Choi, B. J., Singh, D., \& De Neve, W. (2022) Towards multimodal prediction of time-continuous emotion using pose feature engineering and a transformer encoder. \textit{Proceedings of the 3rd International on Multimodal Sentiment Analysis Workshop and Challenge}, 47–54. DOI: \href{https://doi.org/10.1145/3551876.3554807}{10.1145/3551876.3554807}.
+    \item[\checkmark] Baek, J. Y., de Guzman, M. K., Park, H., Park, S., Shin, B., Cirkovic Velickovic, T., Van Messem, A., \& De Neve, W. (2021) Developing a segmentation model for microscopic images of microplastics isolated from clams. \textit{Pattern Recognition, ICPR International Workshops and Challenges, Proceedings, Part VI}, 12666: 86–97. Cham: Springer. DOI: \href{https://doi.org/10.1007/978-3-030-68780-9_9}{10.1007/978-3-030-68780-9\_9}.
+    \item[\checkmark] Park, H., Kang, B., Van Messem, A., \& De Neve, W. (2021) 3-D deep learning-based item classification for belt conveyors targeting packaging and logistics. \textit{Pattern Recognition, ICPR International Workshops and Challenges, Proceedings, Part VI}, 12666: 578–591. Cham: Springer. DOI: \href{https://doi.org/10.1007/978-3-030-68799-1_42}{10.1007/978-3-030-68799-1\_42}.
+    \item[\checkmark] Kang, H., Park, H., Ahn, Y., Van Messem, A., \& De Neve, W. (2021) Towards a quantitative analysis of class activation mapping for deep learning-based computer-aided diagnosis. \textit{Medical Imaging 2021: Image Perception, Observer Performance, and Technology Assessment, Vol. 11599}, SPIE. DOI: \href{https://doi.org/10.1117/12.2580819}{10.1117/12.2580819}.
+    \item[\checkmark] Park, H., Van Messem, A., \& De Neve, W. (2020) Item measurement for logistics-oriented belt conveyor systems using a scenario-driven approach and automata-based control design. \textit{IEEE 7th International Conference on Industrial Engineering and Applications (ICIEA 2020)}, Bangkok and Phuket.
+    \item[\checkmark] Park, H., Van Messem, A., \& De Neve, W. (2019) Box-Scan: An efficient and effective algorithm for box dimension measurement in conveyor systems using a single RGB-D camera. \textit{The 7th IIAE International Conference on Industrial Application Engineering}, Kitakyushu, Japan.
+\end{itemize}
+
+\section{Awards \& Certifications}
+\subsection{Awards}
+\begin{itemize}
+    \item[\checkmark] \textbf{Second Place}, MuSe-Personalisation Challenge 2023, awarded for multimodal sentiment analysis contributions.
+    \item[\checkmark] \textbf{Third Place}, MuSe-Stress Challenge 2022, awarded for contributions to multimodal sentiment analysis.
+    \item[\checkmark] \textbf{Best Presentation Award}, International Conference on Industrial Application Engineering (IIAE), 2019, for effective research communication and presentation.
+\end{itemize}
+
+\subsection{Certifications}
+\begin{itemize}
+    \item[\checkmark] \textbf{TOEIC} – Score: 860 points, Date: September 7, 2024
+    \item[\checkmark] \textbf{OPIc} – Level: Intermediate High (IH), Date: September 17, 2024
+    \item[\checkmark] \textbf{Information Processing Engineer} – Certification No.: 15202100118F, Date: July 31, 2015
+    \item[\checkmark] \textbf{Information Processing Industrial Engineer} – Certification No.: 12642002187H, Date: November 30, 2012
+    \item[\checkmark] \textbf{Information Equipment Operation Craftsman} – Certification No.: 06402100644N, Date: June 26, 2006
+    \item[\checkmark] \textbf{Information Processing Craftsman} – Certification No.: 04402100928U, Date: June 21, 2004
+\end{itemize}
+
+\section{Education}
+\subsection{Ph.D. in Computer Science Engineering\hfill \normalfont 2018 - 2025}
+\subsubsection{Ghent University, Belgium}
+\begin{itemize}
+    \item[\checkmark] Dissertation: ``Advancing Detection through Deep Learning for Industrial, Environmental, and Health Applications''
+    \item[\checkmark] Advisors: Prof. Wesley De Neve, Prof. Arnout Van Messem
+\end{itemize}
+
+\subsection{M.S. in Computer Engineering\hfill \normalfont 2016 - 2018}
+\subsubsection{Ajou University, Suwon, South Korea}
+\begin{itemize}
+    \item[\checkmark] Thesis: ``Cited count prediction modeling from large citation network"
+\end{itemize}
+
+\subsection{B.S. in Computer Science and Engineering\hfill \normalfont 2010 - 2016}
+\subsubsection{Ajou University, Suwon, South Korea}
+\begin{itemize}
+    \item[\checkmark] Major in Computer Science and Engineering
+\end{itemize}
+
+\section{Hosting AI Vacation School}
+\begin{itemize}
+    \item[\checkmark] Initiated and led the AI Vacation School (AIVS) program at GUGC as a volunteer initiative to support over 10 entry-level AI researchers from 2021 to 2024. [\href{https://github.com/powersimmani/AIVS}{Introduction}, \href{https://powersimmani.github.io/AIVS_Lecture_Slides/}{Lecture Slides}]
+    \item[\checkmark] Designed and delivered a three-stage curriculum (online lectures, on-site training, and independent study) covering AI topics like neural networks, computer vision, and generative models.
+    \item[\checkmark] Hosted follow-up seminars where students presented their research projects to faculty and peers, showcasing their skills and building a portfolio for graduate school or employment applications. [GitHub links: \href{https://github.com/powersimmani/RC4_IRTP_Seminar_2024_Summer}{2024 Summer}, \href{https://github.com/powersimmani/RC4_IRTP_Seminar?tab=readme-ov-file}{2023 Winter}]
+    \item[\checkmark] Dedicated personal time to provide comprehensive mentoring support, including portfolio development guidance on GitHub and writing reference letters, to help students advance their careers in academia and industry.
+\end{itemize}
+
+\section{References}
+\textcolor{Sepia}{References available upon request.}
+
+\end{document}
