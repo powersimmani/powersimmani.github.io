@@ -29,6 +29,11 @@ jobs:
         run: |
           python _scripts/update_scholar.py --author_id "$SCHOLAR_ID" --output_dir .
 
+      - name: Generate LinkedIn summary
+        run: |
+          python _scripts/generate_linkedin_summary.py
+          echo "LinkedIn summary generated at _scripts/linkedin_summary.txt"
+
       - name: Check for changes
         id: check_changes
         run: |

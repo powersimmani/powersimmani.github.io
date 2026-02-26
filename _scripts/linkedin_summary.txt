@@ -1,0 +1,135 @@
+============================================================
+LINKEDIN PROFILE UPDATE - Generated on 2026-02-26
+============================================================
+
+────────────────────────────────────────────────────────────
+📝 ABOUT SECTION (Copy to LinkedIn About)
+────────────────────────────────────────────────────────────
+
+Computer Science PhD with deep expertise in machine learning, spanning from foundational concepts to state-of-the-art architectures including CNNs, Transformers, GANs, and Diffusion models.
+
+🔬 Research Focus:
+• Medical Imaging: Interpretable AI for MRI-based diagnosis
+• Bioinformatics: CRISPR-Cas systems & protein structure prediction
+• Affective Computing: Multimodal stress detection & sentiment analysis
+• Environmental Science: Deep learning for microplastics detection
+
+📊 Academic Impact:
+• Citations: 271 | h-index: 10 | i10-index: 10
+• 23 peer-reviewed publications
+• 9 publications since 2023
+
+🎓 Education:
+• Ph.D. Computer Science - Ghent University, Belgium (2018-2025)
+• M.S. Computer Engineering - Ajou University, South Korea
+• B.S. Computer Science - Ajou University, South Korea
+
+🏆 Awards:
+• 2nd Place - MuSe-Personalisation Challenge 2023
+• 3rd Place - MuSe-Stress Challenge 2022
+
+👨‍🏫 Teaching:
+Founder & Lead Instructor of AI Vacation School (AIVS) - 100+ hour ML bootcamp for undergraduates, covering regression to diffusion models.
+
+🔗 Website: https://powersimmani.github.io
+
+
+────────────────────────────────────────────────────────────
+🛠️ SKILLS (Add to LinkedIn Skills)
+────────────────────────────────────────────────────────────
+
+Machine Learning, Deep Learning, PyTorch, Python, Computer Vision,
+Natural Language Processing, Transformers, CNNs, GANs, Diffusion Models,
+Medical Image Analysis, Bioinformatics, SHAP, Explainable AI (XAI),
+Transfer Learning, Feature Engineering, Data Science, Research
+
+
+────────────────────────────────────────────────────────────
+📚 FEATURED PUBLICATIONS (Add to LinkedIn Featured)
+────────────────────────────────────────────────────────────
+
+1. Know your self-supervised learning: A survey on image-based generative and discriminative training
+   arXiv preprint arXiv:2305.13689 (2023)
+   Citations: 64
+
+2. MP-Net: Deep learning-based segmentation for fluorescence microscopy images of microplastics isolated from clams
+   PLoS ONE (2022)
+   Citations: 27
+   URL: https://doi.org/10.1371/journal.pone.0269449
+
+3. Rethinking protein drug design with highly accurate structure prediction of anti-CRISPR proteins
+   Pharmaceuticals (2022)
+   Citations: 25
+   URL: https://doi.org/10.3390/ph15030310
+
+────────────────────────────────────────────────────────────
+📰 RECENT PUBLICATIONS (For LinkedIn Posts)
+────────────────────────────────────────────────────────────
+
+🎉 New Publication Alert!
+📄 "Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability"
+📍 IEEE 22nd International Symposium on Biomedical Imaging (ISBI) (2025)
+👥 KT Nguyen, H Park, G Oh, J Vankerschaver, W De Neve
+
+#MachineLearning #Research #PhD #AI #DeepLearning
+----------------------------------------
+
+🎉 New Publication Alert!
+📄 "Interpreting Stress Detection Models using SHAP and Attention for MuSe-Stress 2022"
+📍 IEEE Transactions on Affective Computing (2024)
+👥 H Park, G Kim, J Oh, A Van Messem, W De Neve
+🔗 https://doi.org/10.1109/TAFFC.2024.3488112
+
+#MachineLearning #Research #PhD #AI #DeepLearning
+----------------------------------------
+
+🎉 New Publication Alert!
+📄 "Assessing the reliability of point mutation as data augmentation for deep learning with genomic data"
+📍 BMC bioinformatics (2024)
+👥 H Lee, U Ozbulak, H Park, S Depuydt, W De Neve, J Vankerschaver
+
+#MachineLearning #Research #PhD #AI #DeepLearning
+----------------------------------------
+
+🎉 New Publication Alert!
+📄 "Interpretable Rotator Cuff Tear Diagnosis Using MRI Slides with CAMscore and SHAP"
+📍 Medical Imaging 2024: Computer-Aided Diagnosis, SPIE (2024)
+👥 H Park, I Yun, M Kim, KT Nguyen, A Van Messem, W De Neve
+
+#MachineLearning #Research #PhD #AI #DeepLearning
+----------------------------------------
+
+🎉 New Publication Alert!
+📄 "Exploring Multimodal Approaches and Fusion Methods for CEO Social Attribute Prediction in 2024 MuSe-Perception"
+📍 Proceedings of the 5th on Multimodal Sentiment Analysis Challenge and Workshop (2024)
+👥 AK Singh, G Kim, J Kim, H Park, BJ Choi, W De Neve
+🔗 https://doi.org/10.1145/3689062.3689081
+
+#MachineLearning #Research #PhD #AI #DeepLearning
+----------------------------------------
+
+────────────────────────────────────────────────────────────
+💡 HEADLINE OPTIONS (Choose one for LinkedIn Headline)
+────────────────────────────────────────────────────────────
+
+Option 1: PhD in Computer Science | Machine Learning Researcher | Medical AI & Bioinformatics
+
+Option 2: ML Researcher @ Ghent University | Deep Learning for Healthcare & Bioinformatics | 271+ Citations
+
+Option 3: Computer Science PhD | Transformers, GANs, Diffusion Models | AIVS Founder & ML Educator
+
+
+────────────────────────────────────────────────────────────
+🔗 IMPORTANT: ADD WEBSITE LINK TO LINKEDIN
+────────────────────────────────────────────────────────────
+
+Add this link to your LinkedIn profile:
+  • Contact Info > Websites > https://powersimmani.github.io
+  • Featured Section > Add a link > https://powersimmani.github.io
+
+This ensures visitors can access your full portfolio with all publications!
+
+
+============================================================
+END OF LINKEDIN UPDATE SUMMARY
+============================================================
