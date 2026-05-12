@@ -2,8 +2,9 @@
 title: Ho-min Park
 email: homin.park@ghent.ac.kr
 description: >-
-  Computer Science PhD specializing in Machine Learning, Deep Learning,
-  and AI applications in Medical Imaging, Bioinformatics, and Affective Computing.
+  Postdoctoral Researcher specializing in Biomedical and Biological AI,
+  with expertise in medical imaging, CRISPR-Cas systems, and genomics.
+  Incoming Assistant Professor at Texas Children's Hospital Data Center.
 baseurl: ""
 url: "https://powersimmani.github.io"
 github_username: powersimmani
@@ -12,7 +13,7 @@ github_username: powersimmani
 author:
   name: Ho-min Park
   avatar: "/assets/images/profile.jpg"
-  bio: "PhD in Computer Science | Machine Learning Researcher"
+  bio: "Postdoctoral Researcher | Biomedical & Biological AI"
   location: "Incheon, South Korea"
   email: "homin.park@ghent.ac.kr"
   links:
