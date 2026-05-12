@@ -5,35 +5,44 @@ title: "About"
 
 # Ho-min Park
 
-Computer Science Engineering PhD with deep expertise in machine learning, spanning from foundational concepts to state-of-the-art architectures including CNNs, Transformers, GANs, and Diffusion models.
+Postdoctoral researcher in Computer Science Engineering specializing in **biomedical and biological AI**, with extensive experience developing deep learning solutions for medical imaging (laparoscopy, MRI, microscopy), structural biology (CRISPR-Cas systems and anti-CRISPR proteins), and genomics. Demonstrated expertise in building interpretable, clinically oriented ML pipelines validated in collaboration with surgeons, biologists, and environmental scientists.
+
+Currently a **Postdoctoral Researcher at Ghent University Global Campus** (under Prof. Joris Vankerschaver, since November 2025) and **incoming Assistant Professor at Texas Children's Hospital Data Center** (Houston, TX, 2026), where research will focus on advancing biomedical AI for pediatric and oncological applications.
 
 ## Research Focus
 
-I specialize in applying machine learning to diverse domains:
+- **Biomedical AI**: Medical imaging (laparoscopy, MRI, microscopy), computer-aided diagnosis, interpretability (SHAP, attention, CAM)
+- **Biological AI**: CRISPR-Cas systems, anti-CRISPR proteins, protein structure prediction, genomics
+- **Multimodal Learning**: Affective computing, multimodal sentiment analysis, transformer-based architectures
+- **Applied ML**: Self-supervised learning, environmental monitoring (microplastics), industrial systems
 
-- **Medical Imaging**: Developing interpretable AI models for MRI-based diagnosis (Rotator Cuff Tears)
-- **Bioinformatics**: CRISPR-Cas systems optimization and protein structure prediction
-- **Affective Computing**: Multimodal stress detection and sentiment analysis
-- **Environmental Science**: Automated microplastics detection using deep learning
-- **Industrial Systems**: AI-powered measurement systems for logistics
+## Professional Experience
 
-## ML Education & Curriculum Design
+| Position | Institution | Period |
+|----------|-------------|--------|
+| **Postdoctoral Researcher** | Ghent University Global Campus, South Korea | November 2025 – Present |
+| **Assistant Professor (Incoming)** | Texas Children's Hospital Data Center, Houston, TX | 2026 |
 
-### AI Vacation School (AIVS) - Founder & Lead Instructor (2021 - 2025)
+## Mentoring & Educational Leadership
+
+### AI Vacation School (AIVS) - Founder & Lead Instructor (2021 - 2026)
 *Ghent University Global Campus*
 
-- Founded and led a volunteer-driven ML bootcamp (100+ hours per session) for undergraduate students over 7 sessions across 4 years
+- Founded and led a volunteer-driven intensive AI education program at the Center for Biosystems and Biotech Data Science, supporting over 30 participants across summer and winter cohorts
 - Designed a 20-lecture curriculum spanning: regression, MLPs, CNNs, RNNs, Transformers, LLMs, GANs, Diffusion models, unsupervised learning, and XAI (SHAP)
-- Created three types of original materials: presentation slides, Google Colab notebooks, and Excel worksheets
-- Mentored over 10 entry-level AI researchers
+- Mentored participants who have advanced to top graduate programs including KAIST, Seoul National University, UNIST, Ghent University (Belgium), and Scripps Research Institute (San Diego, CA)
+- Co-authored peer-reviewed publications with alumni in IEEE Transactions on Affective Computing, BMC Bioinformatics, PLoS ONE, SPIE Medical Imaging, and ACM Multimodal Sentiment Analysis Workshop
+- Developed open-source educational and research artifacts including CRISPR-Cas-Docker, MP-Net segmentation toolkit, and the MPSet dataset on Kaggle
+
+**Resources:** [Program Repository](https://github.com/powersimmani/AIVS) | [Lecture Slides](https://powersimmani.github.io/AIVS_Lecture_Slides/)
 
 ## Education
 
 | Degree | Institution | Year | Details |
 |--------|-------------|------|---------|
-| **Ph.D.** Computer Science Engineering | Ghent University, Belgium | 2018-2025 | Dissertation: "Advancing Detection through Deep Learning for Industrial, Environmental, and Health Applications" |
-| **M.S.** Computer Engineering | Ajou University, South Korea | 2016-2018 | Thesis: "Cited count prediction modeling from large citation network" |
-| **B.S.** Computer Science and Engineering | Ajou University, South Korea | 2010-2016 | Major in Computer Science and Engineering |
+| **Ph.D.** Computer Science Engineering | Ghent University, Belgium | 2025 | Dissertation: "Advancing Detection through Deep Learning for Industrial, Environmental, and Health Applications" |
+| **M.S.** Computer Engineering | Ajou University, South Korea | 2018 | Thesis: "Cited count prediction modeling from large citation network" |
+| **B.S.** Computer Science and Engineering | Ajou University, South Korea | 2016 | Major in Computer Science and Engineering |
 
 ## Skills
 
@@ -51,3 +60,4 @@ I specialize in applying machine learning to diverse domains:
 - **Email**: [homin.park@ghent.ac.kr](mailto:homin.park@ghent.ac.kr)
 - **GitHub**: [github.com/powersimmani](https://github.com/powersimmani)
 - **ORCID**: [0000-0001-9937-8617](https://orcid.org/0000-0001-9937-8617)
+- **LinkedIn**: [linkedin.com/in/park-ho-min-b46658a6](https://www.linkedin.com/in/park-ho-min-b46658a6)
