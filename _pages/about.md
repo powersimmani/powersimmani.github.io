@@ -7,7 +7,7 @@ title: "About"
 
 Postdoctoral researcher in Computer Science Engineering specializing in **biomedical and biological AI**, with extensive experience developing deep learning solutions for medical imaging (laparoscopy, MRI, microscopy), structural biology (CRISPR-Cas systems and anti-CRISPR proteins), and genomics. Demonstrated expertise in building interpretable, clinically oriented ML pipelines validated in collaboration with surgeons, biologists, and environmental scientists.
 
-Currently a **Postdoctoral Researcher at Ghent University Global Campus** (under Prof. Joris Vankerschaver, since November 2025) and **incoming Assistant Professor at Texas Children's Hospital Data Center** (Houston, TX, 2026), where research will focus on advancing biomedical AI for pediatric and oncological applications.
+Currently a **Postdoctoral Researcher at Ghent University Global Campus** (under Prof. Joris Vankerschaver, since November 2025) and **Assistant Professor at Texas Children's Hospital Data Center** (Houston, TX, 2026), where research will focus on advancing biomedical AI for pediatric and oncological applications.
 
 ## Research Focus
 
@@ -21,7 +21,7 @@ Currently a **Postdoctoral Researcher at Ghent University Global Campus** (under
 | Position | Institution | Period |
 |----------|-------------|--------|
 | **Postdoctoral Researcher** | Ghent University Global Campus, South Korea | November 2025 – Present |
-| **Assistant Professor (Incoming)** | Texas Children's Hospital Data Center, Houston, TX | 2026 |
+| **Assistant Professor** | Texas Children's Hospital Data Center, Houston, TX | 2026 |
 
 ## Mentoring & Educational Leadership
 
@@ -57,7 +57,7 @@ Currently a **Postdoctoral Researcher at Ghent University Global Campus** (under
 
 ## Contact
 
-- **Email**: [homin.park@ghent.ac.kr](mailto:homin.park@ghent.ac.kr)
+- **Email**: [Ho-min.Park@bcm.edu](mailto:Ho-min.Park@bcm.edu)
 - **GitHub**: [github.com/powersimmani](https://github.com/powersimmani)
 - **ORCID**: [0000-0001-9937-8617](https://orcid.org/0000-0001-9937-8617)
 - **LinkedIn**: [linkedin.com/in/park-ho-min-b46658a6](https://www.linkedin.com/in/park-ho-min-b46658a6)

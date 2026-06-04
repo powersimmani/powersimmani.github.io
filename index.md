@@ -11,7 +11,7 @@ excerpt: "Postdoctoral Researcher | Biomedical & Biological AI"
     Postdoctoral researcher in Computer Science Engineering specializing in <strong>biomedical and biological AI</strong>, with extensive experience developing deep learning solutions for medical imaging (laparoscopy, MRI, microscopy), structural biology (CRISPR-Cas systems and anti-CRISPR proteins), and genomics. Author of peer-reviewed publications in high-impact venues including the <em>Journal of Clinical Oncology</em>, <em>International Journal of Surgery</em>, <em>IEEE Transactions on Affective Computing</em>, and <em>Transactions on Machine Learning Research</em>.
   </p>
   <p>
-    Currently a <strong>Postdoctoral Researcher at Ghent University Global Campus</strong> (under Prof. Joris Vankerschaver, since November 2025) and <strong>incoming Assistant Professor at Texas Children's Hospital Data Center</strong> (Houston, TX, 2026), where research will focus on advancing biomedical AI for pediatric and oncological applications.
+    Currently a <strong>Postdoctoral Researcher at Ghent University Global Campus</strong> (under Prof. Joris Vankerschaver, since November 2025) and <strong>Assistant Professor at Texas Children's Hospital Data Center</strong> (Houston, TX, 2026), where research will focus on advancing biomedical AI for pediatric and oncological applications.
   </p>
 </div>
 
@@ -27,7 +27,7 @@ excerpt: "Postdoctoral Researcher | Biomedical & Biological AI"
 | Position | Institution | Period |
 |----------|-------------|--------|
 | **Postdoctoral Researcher** | Ghent University Global Campus, South Korea | November 2025 – Present |
-| **Assistant Professor (Incoming)** | Texas Children's Hospital Data Center, Houston, TX | 2026 |
+| **Assistant Professor** | Texas Children's Hospital Data Center, Houston, TX | 2026 |
 
 ## Recent Publications
 

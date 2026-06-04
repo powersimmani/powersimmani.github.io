@@ -9,7 +9,7 @@ title: "Curriculum Vitae"
 
 ## Ho-min Park
 
-**Email:** [homin.park@ghent.ac.kr](mailto:homin.park@ghent.ac.kr) | **GitHub:** [powersimmani](https://github.com/powersimmani) | **ORCID:** [0000-0001-9937-8617](https://orcid.org/0000-0001-9937-8617)
+**Email:** [Ho-min.Park@bcm.edu](mailto:Ho-min.Park@bcm.edu) | **GitHub:** [powersimmani](https://github.com/powersimmani) | **ORCID:** [0000-0001-9937-8617](https://orcid.org/0000-0001-9937-8617)
 
 ---
 
@@ -20,7 +20,7 @@ title: "Curriculum Vitae"
 - Conducting research on biomedical and biological AI under the supervision of Prof. Joris Vankerschaver
 - Contributing to multi-institutional collaborations in surgical AI (peritoneal metastasis detection, laparoscopic video analysis) and genomics (data augmentation for genomic deep learning)
 
-### Assistant Professor (Incoming, 2026)
+### Assistant Professor (2026)
 **Texas Children's Hospital Data Center**, Houston, TX, USA
 - Joining as Assistant Professor to lead research on machine learning for pediatric and oncological applications
 
