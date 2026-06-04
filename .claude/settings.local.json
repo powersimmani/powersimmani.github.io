@@ -4,7 +4,8 @@
       "Bash(bundle exec jekyll build:*)",
       "Bash(python:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "PowerShell(foreach \\($c in 'pdflatex','xelatex','lualatex','latexmk','tectonic'\\) { $p = \\(Get-Command $c -ErrorAction SilentlyContinue\\); if \\($p\\) { \"$c -> $\\($p.Source\\)\" } })"
     ]
   }
 }
