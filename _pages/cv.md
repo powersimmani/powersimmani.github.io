@@ -15,14 +15,15 @@ title: "Curriculum Vitae"
 
 ## Professional Experience
 
-### Postdoctoral Researcher (November 2025 – Present)
-**Ghent University Global Campus (GUGC)**, Incheon, South Korea
-- Conducting research on biomedical and biological AI under the supervision of Prof. Joris Vankerschaver
-- Contributing to multi-institutional collaborations in surgical AI (peritoneal metastasis detection, laparoscopic video analysis) and genomics (data augmentation for genomic deep learning)
+### Assistant Professor (2026 – Present)
+**Texas Children's Hospital Data Center / Baylor College of Medicine**, Houston, TX, USA
+- Leading research on machine learning for pediatric and oncological applications
+- Building interpretable, clinically oriented deep learning pipelines in collaboration with clinicians and biomedical researchers
 
-### Assistant Professor (2026)
-**Texas Children's Hospital Data Center**, Houston, TX, USA
-- Joining as Assistant Professor to lead research on machine learning for pediatric and oncological applications
+### Postdoctoral Researcher (November 2025 – 2026)
+**Ghent University Global Campus (GUGC)**, Incheon, South Korea
+- Conducted research on biomedical and biological AI under the supervision of Prof. Joris Vankerschaver
+- Contributed to multi-institutional collaborations in surgical AI (peritoneal metastasis detection, laparoscopic video analysis) and genomics (data augmentation for genomic deep learning)
 
 ---
 
